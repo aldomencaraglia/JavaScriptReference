@@ -1,2 +1,5 @@
 Attribute         Description
 onload            Runs the script after the page finishes loading
+onfocus           Runs the script when the element gets focus (such as when a text box is active)
+onblur            Runs the script when the element loses focus (such as when the user clicks a new text box in a form)
+onchange          Runs the script when the value of an element is changed
